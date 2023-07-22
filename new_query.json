@@ -1,5 +1,4 @@
 {
-    "Result": {
         "time": 7,
         "hits": 10000,
         "suggest": null,
@@ -116,4 +115,3 @@
             }
         ]
     }
-}
