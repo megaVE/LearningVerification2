@@ -1,0 +1,117 @@
+{
+    "time": 7,
+    "hits": 10000,
+    "suggest": null,
+    "Results": [
+        {
+            "title": "Augustin-Louis Cauchy",
+            "url": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy",
+            "abs": "Baron Augustin Louis Cauchy August May was a French mathematician engineer and physicist who made pioneering contributions to several branches of mathematics including mathematical analysis and continuum mechanics He was one of the first to state and rigorously prove theorems of calculus rejecting the heuristic principle of the generality of algebra of earlier authors He almost singlehandedly founded complex analysis and the study of permutation groups in abstract",
+            "dt-creation": "2021-03-16",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "Chomsky hierarchy",
+            "url": "https://en.wikipedia.org/wiki/Chomsky_hierarchy",
+            "abs": "In formal language theory computer science and linguistics the Chomsky hierarchy also referred to as the Chomsky Sch tzenberger hierarchy is a containment hierarchy of classes of formal grammars This hierarchy of grammars was described by Noam Chomsky in It is also named after Marcel Paul Sch tzenberger who played a crucial role in the development of the theory of formal languages Formal grammars A formal grammar of this type consists of a finite set of production rules left ",
+            "dt-creation": "2018-12-11",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "Electricity",
+            "url": "https://en.wikipedia.org/wiki/Electricity",
+            "abs": "Lightning and urban lighting are some of the most dramatic effects of electricity Electricity is the set of physical phenomena associated with the presence and motion of matter that has a property of electric charge Electricity is related to magnetism both being part of the phenomenon of electromagnetism as described by Maxwell s equations Various common phenomena are related to electricity including lightning static electricity electric heating electric discharges and many others The p",
+            "dt-creation": "2016-11-08",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "Elliptic-curve cryptography",
+            "url": "https://en.wikipedia.org/wiki/Elliptic-curve_cryptography",
+            "abs": "Elliptic curve cryptography ECC is an approach to public key cryptography based on the algebraic structure of elliptic curves over finite fields ECC allows smaller keys compared to non EC cryptography based on plain Galois fields to provide equivalent security Elliptic curves are applicable for key agreement digital signatures pseudo random generators and other tasks Indirectly they can be used for encryption by combining the key agreement with a symmetric encryption scheme Ellipti",
+            "dt-creation": "2014-03-03",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "EPR paradox",
+            "url": "https://en.wikipedia.org/wiki/EPR_paradox",
+            "abs": "Albert Einstein The Einstein Podolsky Rosen paradox EPR paradox is a thought experiment proposed by physicists Albert Einstein Boris Podolsky and Nathan Rosen EPR with which they argued that the description of physical reality provided by quantum mechanics was incomplete In a paper titled Can Quantum Mechanical Description of Physical Reality be Considered Complete they argued for the existence of elements of reality that were not part of quantum theory and speculated that ",
+            "dt-creation": "2016-12-11",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "Econometrics",
+            "url": "https://en.wikipedia.org/wiki/Econometrics",
+            "abs": "Econometrics is the application of statistical methods to economic data in order to give empirical content to economic relationships More precisely it is the quantitative analysis of actual economic phenomena based on the concurrent development of theory and observation related by appropriate methods of inference An introductory economics textbook describes econometrics as allowing economists to sift through mountains of data to extract simple relationships Jan Tinbergen is one",
+            "dt-creation": "2019-04-12",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "Field extension",
+            "url": "https://en.wikipedia.org/wiki/Field_extension",
+            "abs": "In mathematics particularly in algebra a field extension is a pair of fields E subseteq F such that the operations of E are those of F restricted to E In this case F is an extension field of E and E is a subfield of F For example under the usual notions of addition and multiplication the complex numbers are an extension field of the real numbers the real numbers are a subfield of the complex numbers Field extensions are fundamental in algebraic number theory and ",
+            "dt-creation": "2011-04-24",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "General relativity",
+            "url": "https://en.wikipedia.org/wiki/General_relativity",
+            "abs": "Slow motion computer simulation of the black hole binary system GW as seen by a nearby observer during s of its final inspiral merge and ringdown The star field behind the black holes is being heavily distorted and appears to rotate and move due to extreme gravitational lensing as spacetime itself is distorted and dragged around by the rotating black holes General relativity also known as the general theory of relativity and Einstein s theory of gravity is the geometric th",
+            "dt-creation": "2011-08-22",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "Georg Cantor",
+            "url": "https://en.wikipedia.org/wiki/Georg_Cantor",
+            "abs": "Georg Ferdinand Ludwig Philipp Cantor January was a German mathematician He created set theory which has become a fundamental theory in mathematics Cantor established the importance of one to one correspondence between the members of two sets defined infinite and well ordered sets and proved that the real numbers are more numerous than the natural numbers In fact Cantor s method of proof of this theorem implies the existence of an infinity of infinities He defined the",
+            "dt-creation": "2017-03-14",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        },
+        {
+            "title": "Idempotence",
+            "url": "https://en.wikipedia.org/wiki/Idempotence",
+            "abs": "On/Off buttons of a train s destination sign control panel Pressing the On button green is an idempotent operation since it has the same effect whether done once or multiple times Likewise pressing Off is idempotent Idempotence is the property of certain operations in mathematics and computer science whereby they can be applied multiple times without changing the result beyond the initial application The concept of idempotence arises in a number of places in abstract algebra ",
+            "dt-creation": "2021-12-08",
+            "reading-time": 6,
+            "search-terms": [],
+            "not-found": [
+                "test"
+            ]
+        }
+    ]
+}
